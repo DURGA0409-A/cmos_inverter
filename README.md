@@ -15,14 +15,24 @@ CMOS inverter consists of a p-channel MOSFET(PMOS)and an n-channel MOSFET(NMOS)c
 
 ## For schematic:
 A.TRANSISTOR DIAGRAM 
+
 <img width="183" height="159" alt="cmos INVERTER DIAG" src="https://github.com/user-attachments/assets/39d612ee-9e60-4251-988b-636cd430038d" />
+
+Fig: CMOS inverter Transistor Schematic
+
 B.IN CADENECE
+
 •	Pick the components NMOS, PMOS, ground, VDD and voltage source.
 •	Connect the wire as per the schematic diagram.
+
 <img width="907" height="381" alt="image" src="https://github.com/user-attachments/assets/7b163321-1720-4eac-8bb2-3b5ded9e7834" />
+
+Fig: CMOS inverter Schematic
 
 ## FOR SYMBOL :
 <img width="952" height="483" alt="image" src="https://github.com/user-attachments/assets/689685b4-2cff-4c49-a079-8d2dc444d2c0" />
+
+Fig: CMOS inverter symbol
 
 ## Transient Analysis and OP:
 a)	In the Analysis section, select transient.
