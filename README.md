@@ -1,5 +1,7 @@
 # cmos_inverter
-## EXPERIMENT2.a Design CMOS inverter and transient and OP analysis
+## REG NUM :
+## NAME :
+## EXPERIMENT 2.a Design CMOS inverter and transient and OP analysis
 
 ## Aim: To Design CMOS inverter and transient and OP analysis.
 
